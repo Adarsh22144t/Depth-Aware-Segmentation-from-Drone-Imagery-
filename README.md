@@ -119,7 +119,6 @@ The depth-aware model demonstrates:
 - Better separation of overlapping objects  
 - Improved segmentation under shadows and occlusions  
 
-![Qualitative Comparison](images/qualitative_comparison.png)
 
 ---
 
